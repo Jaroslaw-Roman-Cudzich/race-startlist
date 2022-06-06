@@ -1,0 +1,12 @@
+.search-result-region {
+    background-color: blue;
+    width: fit-content;
+}
+
+.search-result {
+    color: white;
+}
+
+.invalid-search-input {
+    color: white;
+}
