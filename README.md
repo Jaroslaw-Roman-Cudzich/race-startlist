@@ -20,6 +20,11 @@ I would like to enter my organiser's title and have the list of ticket sales and
 
 </details>
 
+# Further Steps
+
+- Build upon the application to meet all of the user stories requirements.  
+- Create seperate web pages for the various dashbaords.  
+- Ensure high quality code through test driven development to cover all functionality and features.
 
 # Tech Stack - Instructions
 
