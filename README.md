@@ -1,3 +1,25 @@
+# Race Startlist
+
+**Application which builds a dashboard for the organisers of various sporting events to view the race startlist entries and ticket sales revenue.**
+
+## User Stories - MVP
+
+<details><summary>Show User Stories</summary>
+
+~~~~~~
+As a user
+In order to see the popularity of a specific sporting event
+I would like to enter my organiser's title and have the list of participants displayed along with the name(s) of the race(s) each participant took part in.  To be displayed in a dashboard format
+~~~~~~
+
+~~~~~~
+As a user
+In order to see the ticket sale revenue
+I would like to enter my organiser's title and have the list of ticket sales and the total revenue displayed in a dashboard format
+~~~~~~
+
+</details>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
