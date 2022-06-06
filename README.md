@@ -20,6 +20,16 @@ I would like to enter my organiser's title and have the list of ticket sales and
 
 </details>
 
+
+# Tech Stack - Instructions
+
+# Axios
+
+Please install Axios with the following command.:
+
+### `npm install axios`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
